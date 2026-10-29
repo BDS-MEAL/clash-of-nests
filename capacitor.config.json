@@ -1,0 +1,10 @@
+{
+  "appId": "com.clashofnests.app",
+  "appName": "Clash Of Nests",
+  "webDir": "www",
+  "server": {
+    "url": "https://lingo-quiets.streamlit.app/",
+    "errorPath": "index.html",
+    "androidScheme": "https"
+  }
+}
